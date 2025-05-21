@@ -16,9 +16,12 @@ public class Car {
 	private String brand, model, color, registrationNumber;
 	private int modelYear, price;
 	
+
+	//NoArgsConstructor
 	public Car() {	
 	}
 	
+	//ArgsConstructor
 	public Car(String brand, String model, String color, String registrationNumber, int modelYear, int price) {
 		super();
 		this.brand = brand;
