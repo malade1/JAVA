@@ -1,4 +1,4 @@
-package com.moses.cardatabase;
+package com.moses.CarDatabase;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

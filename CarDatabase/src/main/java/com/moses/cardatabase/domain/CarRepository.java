@@ -1,4 +1,4 @@
-package com.moses.cardatabase.domain;
+package com.moses.CarDatabase.domain;
 
 import org.springframework.data.repository.CrudRepository;
 
